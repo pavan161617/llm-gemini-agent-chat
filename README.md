@@ -89,7 +89,5 @@ Gemini: LangChain is a framework that...
 ## 📜 License
 MIT License — free to use and modify.
 
----
-
-> 🔗 Built for **Heizen SDE (AI) Intern** role  
+--- 
 > By: [Ponnaganti Pavan Kumar](https://github.com/pavan161617)
