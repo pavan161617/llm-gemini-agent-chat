@@ -89,5 +89,10 @@ Gemini: LangChain is a framework that...
 ## 📜 License
 MIT License — free to use and modify.
 
---- 
-> By: [Ponnaganti Pavan Kumar](https://github.com/pavan161617)
+## 📧 Contact
+**Developer:** Pavan Kumar  
+**GitHub:** [pavan161617](https://github.com/pavan161617)  
+**LinkedIn:** [Pavan Kumar](https://www.linkedin.com/in/pavan-kumar-b7639125a/)  
+**Email:** [pavan90990](mailto:pavan90990@gmail.com)  
+
+⭐ *If you find this project useful, please star the repository!* ⭐
